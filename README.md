@@ -8,7 +8,7 @@ Environmental engineer studying full stack web development in Business College H
 
 * 🌍  I'm based in Helsinki, Finland
 * ✉️  You can contact me at [shree.bhusal07@gmail.com](mailto:shree.bhusal07@gmail.com)
-* 🧠  Currently I'm learning React,PHP,Database, Unit-Testing, Drupal, CI-CD, Bootstrap, Tailwind, Typescript,  NextJS
+* 🧠  Currently I'm learning React,PHP,Database, Unit-Testing, Drupal, CI-CD, Bootstrap, Tailwind, Typescript,  NextJS, NodeJS
 
 ### Skills
 
