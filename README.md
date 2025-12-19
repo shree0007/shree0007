@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student-Full stack development
 ------------------------------
 
-Environmental engineer studying full stack web development in Business College Helsinki
+Environmental and Sustainability engineer with vocational qualification in full stack web development.
 
 * 🌍  I'm based in Helsinki, Finland
 * ✉️  You can contact me at [shree.bhusal07@gmail.com](mailto:shree.bhusal07@gmail.com)
